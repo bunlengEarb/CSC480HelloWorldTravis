@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{F939300B-13A0-435D-9636-109872A136B8}|Default">
   <MonoDevelop.Ide.ItemProperties.HelloWorld1.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.238E3BC1-34E7-4170-AD57-A9711D5BEC84" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld1/GreetPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".travis.yml">
     <Files>
-      <File FileName="HelloWorld1/GreetPage.xaml" Line="6" Column="40" />
+      <File FileName="HelloWorld1/GreetPage.xaml" Line="6" Column="47" />
       <File FileName="HelloWorld1/GreetPage.xaml.cs" />
       <File FileName="HelloWorld1/App.xaml" />
       <File FileName="HelloWorld1/App.xaml.cs" />
@@ -10,13 +10,16 @@
       <File FileName="HelloWorld1/MainPage.xaml" />
       <File FileName="HelloWorld1.Android/MainActivity.cs" />
       <File FileName="HelloWorld1/obj/Debug/netstandard2.0/GreetPage.xaml.g.cs" />
+      <File FileName=".travis.yml" Line="6" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
           <Node name="HelloWorld1" expanded="True">
+            <Node name=".travis.yml" selected="True" />
             <Node name="HelloWorld1" expanded="True">
-              <Node name="GreetPage.xaml" expanded="True" selected="True" />
+              <Node name="GreetPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>

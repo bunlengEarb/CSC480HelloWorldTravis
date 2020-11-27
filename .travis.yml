@@ -6,3 +6,4 @@ mono:
   - 3.10.0
 install:
 - dotnet restore
+os: osx
